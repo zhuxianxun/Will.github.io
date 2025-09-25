@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xianxun Zhu (朱贤训) — Multimodal AI • Wireless Sensing • Robotics"
+title: "Xianxun Zhu — Multimodal AI • Wireless Sensing • Robotics"
 author_profile: true
 redirect_from: 
   - /about/
@@ -100,4 +100,3 @@ Sample works: Brain-like multimodal hierarchical perception for emotion recognit
 
 ---
 
-*Note:* If you’d like, we can add links for Google Scholar and ResearchGate, and split publications into the site’s `_publications` folder so they render on the Publications page automatically. We can also add a downloadable CV and set up navigation in `_data/navigation.yml`.
