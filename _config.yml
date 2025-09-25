@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Dr."
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &Xianxun Zhu "
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://zhuxianxun.github.io/Will.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,26 +23,28 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
 
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # Biographic information
+  avatar           : "ZXX.png"
+  name             : "Xianxun Zhu"
+  pronouns         : 
+  bio              : "Postdoctoral Researcher"
+  employer         : "Shanghai University (Postdoctoral Researcher)"
+  uri              : 
+  email            : "xianxun.zhu@mq.edu.au"  # secondary: zhuxianxun@shu.edu.cn
+
+
+  # Academic websites (add your real links when ready)
+  academia         : 
+  arxiv            : 
+  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=XXXXXXXXXXX"
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : "https://orcid.org/0000-0003-3958-7040"
+  semantic         : 
+  pubmed           : 
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/Xianxun-Zhu"
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
