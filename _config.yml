@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xianxun Zhu / 朱贤训"
+title                    : "Xianxun Zhu"
 title_separator          : "-"
-name                     : &name "Xianxun Zhu (朱贤训)"
+name                     : &name "Xianxun Zhu"
 description              : &description "Multimodal AI • Wireless/6G Sensing • Robotics SLAM • Remote Sensing"
 url                      : https://academicpages.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io" # update to y
 author:
   # Biographic information
   avatar           : "ZXX.png"
-  name             : "Xianxun Zhu (朱贤训)"
+  name             : "Xianxun Zhu"
   pronouns         : 
   bio              : "Postdoctoral Researcher @ Shanghai University. Research: multimodal emotion analysis, wireless/6G sensing, robotics SLAM, and remote sensing."
   location         : "Shanghai, China / Sydney, Australia"
