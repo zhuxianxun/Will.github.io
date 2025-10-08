@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-**Base:** Shanghai, China / Sydney, Australia  
-**Email:** xianxun.zhu@mq.edu.au ⋄ zhuxianxun@shu.edu.cn  
-**Phone:** (+86) 177-5697-8793 / (+61) 415-825-688  
+
+**Email:** xianxun@sentic.net/xianxun.zhu@mq.edu.au
+
+
 **Profiles:** [Google Scholar](https://scholar.google.com.hk/citations?user=g1WLorwAAAAJ&hl=zh-CN) ⋄ [ResearchGate](https://www.researchgate.net/profile/Xianxun-Zhu)
 
-I am a postdoctoral researcher at Shanghai University working at the intersection of **multimodal emotion analysis**, **wireless/6G sensing**, **robotics SLAM**, and **remote sensing**. My broader interests include AI algorithms, blockchain business analysis, and microelectronic chip development. I collaborate closely with industry and academia to translate methods into deployable systems.
+I am a postdoctoral researcher at Nanyang Technological University(Co-supervisor: [**Erik Cambria, IEEE Fellow**](https://scholar.google.com.hk/citations?hl=zh-CN&user=ilSYpW0AAAAJ&view_op=list_works&sortby=pubdate))/Shanghai University(Co-supervisor: [**Rui Wang**](https://scie.shu.edu.cn/Prof/wangrui.htm))/ working at the intersection of **multimodal emotion analysis**, **wireless/6G sensing**, **robotics SLAM**, and **remote sensing**. My broader interests include AI algorithms, blockchain business analysis, and microelectronic chip development. I collaborate closely with industry and academia to translate methods into deployable systems.
+
+I am a member of the [**SenticNet**](https://sentic.net) team at Nanyang Technological University, which specializes in affective computing. Our team is one of the leading groups globally in this field, led by Prof. [**Erik Cambria**](https://scholar.google.com.hk/citations?hl=zh-CN&user=ilSYpW0AAAAJ&view_op=list_works&sortby=pubdate). If you're interested in our work, feel free to explore our website for more information.
+
 
 ## Research Interests
 - Multimodal learning (emotion/sentiment, robustness, alignment, diffusion & transformers)  
@@ -36,7 +40,7 @@ Research areas: microcontroller design and process automation.
 ---
 
 ## Professional Experience
-**Postdoctoral Researcher**, Shanghai University, Shanghai (04/2025 – Present)  
+**Postdoctoral Researcher**, Nanyang Technological University, Singapore/Shanghai University, Shanghai (04/2025 – Present)  
 Multimodal emotion analysis, robotics SLAM, and remote sensing.
 
 **Founder**, Yinchuan Jiexun Technology Co., Ltd, Yinchuan (04/2023 – Present)  
