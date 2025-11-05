@@ -28,14 +28,8 @@ I am a member of the [**SenticNet**](https://sentic.net) team at Nanyang Technol
 ---
 
 ## Education
-**Ph.D., Multimodal Processing** — Macquarie University / Shanghai University, Sydney & Shanghai (09/2021 – 04/2025)  
+**Ph.D., Multimodal Processing** — Macquarie University / Shanghai University, Sydney & Shanghai  
 Research areas: multimodal data processing, 6G sensing, robotics SLAM, blockchain business analysis, microelectronic chip development, AI algorithms.
-
-**M.Sc., RF Sensing** — Shanghai Polytechnic University, Shanghai (09/2018 – 06/2021)  
-Research areas: robot component design, CAD optimization, mechanical dynamics, control engineering, thermodynamics, fluid mechanics.
-
-**B.Eng., Process Automation** — Anhui University of Architecture, Hefei (09/2014 – 06/2018)  
-Research areas: microcontroller design and process automation.
 
 ---
 
