@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**Email:** xianxun@sentic.net/xianxun.zhu@mq.edu.au
+**Email:** xianxun.zhu@mq.edu.au/xianxun@sentic.net
 
 
 **Profiles:** [Google Scholar](https://scholar.google.com.hk/citations?user=g1WLorwAAAAJ&hl=zh-CN) ⋄ [ResearchGate](https://www.researchgate.net/profile/Xianxun-Zhu)
