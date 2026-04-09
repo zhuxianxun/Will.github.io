@@ -96,7 +96,7 @@ Sample works: Brain-like multimodal hierarchical perception for emotion recognit
 - **Third place**, Anhui Provincial Games (2017, 2018) & **Sportsmanship Award** (2017)  
 - **Postgraduate Scholarship:** Third Prize (2018), First Prize (2020)
 ## News！！！
-We are recruiting remote interns (undergraduate, master’s, and PhD) in collaboration with Shanghai University and Nanyang Technological University (NTU); if you’re interested in multimodal data processing, feel free to email us. （xianxun@sentic.net）
+We are recruiting remote interns (undergraduate, master’s, and PhD) in collaboration with Macquarie University,Shanghai University and Nanyang Technological University (NTU); if you’re interested in multimodal data processing, feel free to email us. （xianxun@sentic.net）
 
 
 
